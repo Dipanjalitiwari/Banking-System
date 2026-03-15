@@ -1,0 +1,30 @@
+{
+  "java.project.sourcePaths": ["src"],
+  "java.project.outputPath": "bin",
+  "java.project.referencedLibraries": [
+    "c:\\Users\\tiwar\\Desktop\\Advance Java\\BANKING SYSTEM\\lib\\javafx.graphics.jar",
+    "c:\\Users\\tiwar\\Desktop\\Advance Java\\BANKING SYSTEM\\lib\\javafx.swing.jar",
+    "c:\\Users\\tiwar\\Desktop\\Advance Java\\BANKING SYSTEM\\lib\\javafx.fxml.jar",
+    "c:\\Users\\tiwar\\Desktop\\Advance Java\\BANKING SYSTEM\\lib\\javafx.media.jar",
+    "c:\\Users\\tiwar\\Desktop\\Advance Java\\BANKING SYSTEM\\lib\\jdk.jsobject.jar",
+    "c:\\Users\\tiwar\\Desktop\\Advance Java\\BANKING SYSTEM\\lib\\javafx.web.jar",
+    "c:\\Users\\tiwar\\Desktop\\Advance Java\\BANKING SYSTEM\\lib\\jfx.incubator.richtext.jar",
+    "c:\\Users\\tiwar\\Desktop\\Advance Java\\BANKING SYSTEM\\lib\\javafx-swt.jar",
+    "c:\\Users\\tiwar\\Desktop\\Advance Java\\BANKING SYSTEM\\lib\\javafx.base.jar",
+    "c:\\Users\\tiwar\\Desktop\\Advance Java\\BANKING SYSTEM\\lib\\javafx.controls.jar",
+    "c:\\Users\\tiwar\\Desktop\\Advance Java\\BANKING SYSTEM\\lib\\jfx.incubator.input.jar",
+    "c:\\Users\\tiwar\\Downloads\\postgresql-42.7.9.jar",
+    "c:\\Program Files\\Java\\javafx-sdk-25.0.2\\lib\\javafx.base.jar",
+    "c:\\Program Files\\Java\\javafx-sdk-25.0.2\\lib\\javafx.controls.jar",
+    "c:\\Program Files\\Java\\javafx-sdk-25.0.2\\lib\\javafx.fxml.jar",
+    "c:\\Program Files\\Java\\javafx-sdk-25.0.2\\lib\\javafx.graphics.jar",
+    "c:\\Program Files\\Java\\javafx-sdk-25.0.2\\lib\\javafx.media.jar",
+    "c:\\Program Files\\Java\\javafx-sdk-25.0.2\\lib\\javafx.swing.jar",
+    "c:\\Program Files\\Java\\javafx-sdk-25.0.2\\lib\\javafx.web.jar",
+    "c:\\Program Files\\Java\\javafx-sdk-25.0.2\\lib\\javafx-swt.jar",
+    "c:\\Program Files\\Java\\javafx-sdk-25.0.2\\lib\\jdk.jsobject.jar",
+    "c:\\Program Files\\Java\\javafx-sdk-25.0.2\\lib\\jfx.incubator.input.jar",
+    "c:\\Program Files\\Java\\javafx-sdk-25.0.2\\lib\\jfx.incubator.richtext.jar",
+    "c:\\Users\\user\\Downloads\\postgresql-42.7.9 (1).jar"
+  ]
+}
